@@ -1,7 +1,9 @@
 Personal Portfolio Website
+
 Welcome to this personal portfolio website! This project is designed to showcase skills, experience, and work as a web designer and developer.
 
 About
+
 This section provides a detailed overview of the developer's background and interests in web and app development, highlighting their journey and productivity enhancements through automation.
 
 Features
